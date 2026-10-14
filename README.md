@@ -8,6 +8,6 @@ About Me 🌟
 📈 Data-Driven Expertise: .  
 
 Projects 📘  
-Customer Churn Analysis: 
+
 
 
