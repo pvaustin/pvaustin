@@ -10,7 +10,7 @@ About Me 🌟
 Projects 📘  
 
 AuditLynx
-<img width="383" height="93" alt="image" src="https://github.com/user-attachments/assets/2b1632b0-5285-4f06-b4de-7557ccec43d4" />
+<img width="353" height="93" alt="image" src="https://github.com/user-attachments/assets/2b1632b0-5285-4f06-b4de-7557ccec43d4" />
 
 
 LagnaLab
